@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvtringify",
+        "uuid": 16301532,
+        "checksum": "w2bena"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
